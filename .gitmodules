@@ -1,3 +1,21 @@
 [submodule "Computer architecture - 2/Computer"]
 	path = Computer architecture - 2/Computer
 	url = https://github.com/JackShen1/calculator.git
+[submodule "Computer architecture - 2/CA-Lab1"]
+	path = Computer architecture - 2/CA-Lab1
+	url = https://github.com/JackShen1/calculator.git
+[submodule "Computer architecture - 2/CA-Lab2"]
+	path = Computer architecture - 2/CA-Lab2
+	url = https://github.com/JackShen1/c-simple.git
+[submodule "Computer architecture - 2/CA-Lab3"]
+	path = Computer architecture - 2/CA-Lab3
+	url = https://github.com/JackShen1/ArgParser.git
+[submodule "Computer architecture - 2/CA-Lab5"]
+	path = Computer architecture - 2/CA-Lab5
+	url = https://github.com/JackShen1/AK2_Lab5.git
+[submodule "Computer architecture - 2/CA-Lab6"]
+	path = Computer architecture - 2/CA-Lab6
+	url = https://github.com/JackShen1/AK2_Lab6.git
+[submodule "Computer architecture - 2/CA-Lab7"]
+	path = Computer architecture - 2/CA-Lab7
+	url = https://github.com/JackShen1/AK2_Lab7.git
