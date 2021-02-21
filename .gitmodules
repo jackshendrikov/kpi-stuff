@@ -1,6 +1,3 @@
-[submodule "Computer architecture - 2/Computer"]
-	path = Computer architecture - 2/Computer
-	url = https://github.com/JackShen1/calculator.git
 [submodule "Computer architecture - 2/CA-Lab1"]
 	path = Computer architecture - 2/CA-Lab1
 	url = https://github.com/JackShen1/calculator.git
@@ -19,3 +16,6 @@
 [submodule "Computer architecture - 2/CA-Lab7"]
 	path = Computer architecture - 2/CA-Lab7
 	url = https://github.com/JackShen1/AK2_Lab7.git
+[submodule "Experiment Planning Theory"]
+	path = Experiment Planning Theory
+	url = https://github.com/JackShen1/ept-labs.git
