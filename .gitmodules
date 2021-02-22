@@ -19,3 +19,6 @@
 [submodule "Experiment Planning Theory"]
 	path = Experiment Planning Theory
 	url = https://github.com/JackShen1/ept-labs.git
+[submodule "System Programming - 1"]
+	path = System Programming - 1
+	url = https://github.com/JackShen1/assembly-labs.git
