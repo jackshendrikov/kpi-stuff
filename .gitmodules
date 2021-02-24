@@ -22,3 +22,6 @@
 [submodule "System Programming - 1"]
 	path = System Programming - 1
 	url = https://github.com/JackShen1/assembly-labs.git
+[submodule "Computer Modelling"]
+	path = Computer Modelling
+	url = https://github.com/JackShen1/cm-labs.git
