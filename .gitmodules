@@ -25,3 +25,6 @@
 [submodule "Computer Modelling"]
 	path = Computer Modelling
 	url = https://github.com/JackShen1/cm-labs.git
+[submodule "Programming Basics"]
+	path = Programming Basics
+	url = https://github.com/JackShen1/pr-labs.git
