@@ -1,33 +1,36 @@
-[submodule "Computer architecture - 2/CA-Lab1"]
-	path = Computer architecture - 2/CA-Lab1
+[submodule "Computer Architecture - 2/CA2-Lab1"]
+	path = Computer Architecture - 2/CA2-Lab1
 	url = https://github.com/JackShen1/calculator.git
-[submodule "Computer architecture - 2/CA-Lab2"]
-	path = Computer architecture - 2/CA-Lab2
+[submodule "Computer Architecture - 2/CA2-Lab2"]
+	path = Computer Architecture - 2/CA2-Lab2
 	url = https://github.com/JackShen1/c-simple.git
-[submodule "Computer architecture - 2/CA-Lab3"]
-	path = Computer architecture - 2/CA-Lab3
+[submodule "Computer Architecture - 2/CA2-Lab3"]
+	path = Computer Architecture - 2/CA2-Lab3
 	url = https://github.com/JackShen1/ArgParser.git
-[submodule "Computer architecture - 2/CA-Lab5"]
-	path = Computer architecture - 2/CA-Lab5
+[submodule "Computer Architecture - 2/CA2-Lab5"]
+	path = Computer Architecture - 2/CA2-Lab5
 	url = https://github.com/JackShen1/AK2_Lab5.git
-[submodule "Computer architecture - 2/CA-Lab6"]
-	path = Computer architecture - 2/CA-Lab6
+[submodule "Computer Architecture - 2/CA2-Lab6"]
+	path = Computer Architecture - 2/CA2-Lab6
 	url = https://github.com/JackShen1/AK2_Lab6.git
-[submodule "Computer architecture - 2/CA-Lab7"]
-	path = Computer architecture - 2/CA-Lab7
+[submodule "Computer Architecture - 2/CA2-Lab7"]
+	path = Computer Architecture - 2/CA2-Lab7
 	url = https://github.com/JackShen1/AK2_Lab7.git
 [submodule "Experiment Planning Theory"]
 	path = Experiment Planning Theory
 	url = https://github.com/JackShen1/ept-labs.git
-[submodule "System Programming - 1"]
-	path = System Programming - 1
-	url = https://github.com/JackShen1/assembly-labs.git
 [submodule "Computer Modelling"]
 	path = Computer Modelling
 	url = https://github.com/JackShen1/cm-labs.git
+[submodule "System Programming - 1"]
+	path = System Programming - 1
+	url = https://github.com/JackShen1/assembly-labs.git
 [submodule "Programming Basics"]
 	path = Programming Basics
 	url = https://github.com/JackShen1/pr-labs.git
-[submodule "Computer Architecture - 3/CA3_Lab1"]
-	path = Computer Architecture - 3/CA3_Lab1
+[submodule "Algorithms and Data structures"]
+	path = Algorithms and Data structures
+	url = https://github.com/JackShen1/algorithm-basics
+[submodule "Computer Architecture - 3/CA3-Lab1"]
+	path = Computer Architecture - 3/CA3-Lab1
 	url = https://github.com/JackShen1/AK3_Lab1.git
