@@ -37,3 +37,18 @@
 [submodule "Object-Oriented Programming"]
 	path = Object-Oriented Programming
 	url = https://github.com/JackShen1/oop-labs.git
+[submodule "Software Engineering/SE-Lab1_2_5_8"]
+	path = Software Engineering/SE-Lab1_2_5_8
+	url = https://github.com/JackShen1/pattern-labs.git
+[submodule "Software Engineering/SE-Lab3_7"]
+	path = Software Engineering/SE-Lab3_7
+	url = https://github.com/JackShen1/graphical-editor.git
+[submodule "Software Engineering/SE-Lab4"]
+	path = Software Engineering/SE-Lab4
+	url = https://github.com/JackShen1/imago.git
+[submodule "Software Engineering/SE-Lab6"]
+	path = Software Engineering/SE-Lab6
+	url = https://github.com/JackShen1/graph-plotter.git
+[submodule "Software Engineering/SE-Lab9"]
+	path = Software Engineering/SE-Lab9
+	url = https://github.com/JackShen1/multi-editor.git
