@@ -52,3 +52,6 @@
 [submodule "Software Engineering/SE-Lab9"]
 	path = Software Engineering/SE-Lab9
 	url = https://github.com/JackShen1/multi-editor.git
+[submodule "Parellel Programming"]
+	path = Parellel Programming
+	url = https://github.com/JackShen1/parallel-programming
