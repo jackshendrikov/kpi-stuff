@@ -58,3 +58,6 @@
 [submodule "Parallel and Distributed Calculations"]
 	path = Parallel and Distributed Calculations
 	url = https://github.com/JackShen1/parallel-calc.git
+[submodule "Computer Architecture - 3/CA3-Lab2"]
+	path = Computer Architecture - 3/CA3-Lab2
+	url = https://github.com/JackShen1/AK3_Lab2.git
